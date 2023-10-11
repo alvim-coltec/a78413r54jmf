@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@40,700,0,0" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="shortcut icon" href="https://m.media-amazon.com/images/I/81ncT+-1D1L.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../../assets/macaco-icon.png" type="image/x-icon">
     <link rel="stylesheet" href="../../assets/stylish/stilo.css">
     <link rel="stylesheet" href="../../assets/stylish/win-lose.css">
     <title>You Lose.</title>

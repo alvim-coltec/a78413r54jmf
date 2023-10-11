@@ -74,7 +74,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
-    <link rel="shortcut icon" href="https://m.media-amazon.com/images/I/81ncT+-1D1L.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../../assets/macaco-icon.png" type="image/x-icon">
     <link rel="stylesheet" href="../../assets/stylish/stilo.css">
     <link rel="stylesheet" href="../../assets/stylish/rodape.css">
     <link rel="stylesheet" href="../../assets/stylish/pergunta.css">
